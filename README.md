@@ -1,4 +1,4 @@
-![Kidney](https://media.tenor.com/Yv80IhVlTO0AAAAC/kidney-stones-friends.gif)
+![Kidney](https://media.tenor.com/gw6jgBdh0JwAAAAC/rambo-worst-ever.gif)
 
 # _**Kidney Stone Detection Using Transfer Learning**_
 Kidney stones are not a new subject but it is one of the major health concerns these days, if not detected at early stages might also become life-threatening. A small piece of stone may pass through urinary track without causing symptoms. If a stone grows to more than 5 millimetres it can cause blockage of the ureter resulting in severe pain in the lower back or abdomen. Hence, it’s necessary to have an approach to detect the stone in the kidney to avoid further health issues. In this project we will be using transfer learning to make the prediction.
